@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mehria-Nawaz
 - 👀 I’m interested in solving problem.
-- 🌱 I’m currently learning all the skills to be up to date
+- 🌱 I’m currently working in Infosys as a Digital Specialist Engineer.
 - Problem solving Geek
 
 <!---
